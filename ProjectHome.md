@@ -1,0 +1,1 @@
+A small gui addressbook application is created.The gui is created using pygtk(one of gui tool for python). Programming is done using python programming language. MySQL database acts as a back end.
